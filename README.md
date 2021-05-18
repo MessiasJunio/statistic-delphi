@@ -15,8 +15,8 @@
 Executar:
 
 ```bash
-# Abrir com o windows o arquivo .exe
-Win32/Debug/statisc-delphi.exe
+# Abrir com o Delphi o arquivo APSCalculosEstatisticos.dproj 
+# Executar o projeto
 ```
 ## Learn More
 
